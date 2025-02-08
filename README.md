@@ -12,8 +12,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manalelbakkouri&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manalelbakkouri&theme=react&hide_border=false)<br/>
-<p align=center>
-<img src= https://github-readme-stats.vercel.app/api/top-langs/?username=manalelbakkouri&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalelbakkouri&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manalelbakkouri&theme=dark&no-frame=false&no-bg=true&margin-w=4)
