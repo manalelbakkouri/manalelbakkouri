@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Manal!
 
-<!--
-**manalelbakkouri/manalelbakkouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Passionate about AI, Data Science, and Software Development.
+- 💡 Always exploring innovative tech solutions.
+- 🛠️ Building projects that make an impact.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+### ✨ Fun Fact
+Did you know? The first computer virus was created in 1986 and was called 'Brain'! 💡
