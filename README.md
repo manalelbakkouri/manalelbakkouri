@@ -1,7 +1,7 @@
 # <p align=center>👋 Hi, I'm Manal! </p>
 ##  About Me:
--🎓 Passionate about AI, Data Science, and Software Development.
--💡 Always exploring innovative tech solutions.
+-🎓 Passionate about AI, Data Science, and Software Development.<br>
+-💡 Always exploring innovative tech solutions.<br>
 -🛠️ Building projects that make an impact.
 
 ## 🌐 Socials:
