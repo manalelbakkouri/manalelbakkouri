@@ -1,5 +1,4 @@
 # <p align=center>👋 Hi, I'm Manal! </p>
-
 ##  About Me:
 <br>- 🎓 Passionate about AI, Data Science, and Software Development.<br>- 💡 Always exploring innovative tech solutions.<br> - 🛠️ Building projects that make an impact.
 
