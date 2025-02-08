@@ -32,6 +32,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=manalelbakkouri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manalelbakkouri&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=manalelbakkouri&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact](https://visitcount.itsvg.in/api?id=manalelbakkouri&icon=0&color=0)](https://visitcount.itsvg.in)"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
