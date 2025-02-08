@@ -1,6 +1,8 @@
 # <p align=center>👋 Hi, I'm Manal! </p>
 ##  About Me:
-<br>-🎓 Passionate about AI, Data Science, and Software Development.<br>-💡 Always exploring innovative tech solutions.<br> -🛠️ Building projects that make an impact.
+-🎓 Passionate about AI, Data Science, and Software Development.
+-💡 Always exploring innovative tech solutions.
+-🛠️ Building projects that make an impact.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manal-el-bakkouri-49b5a0295/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elbakkouri.manal.ac@gmail.com) 
