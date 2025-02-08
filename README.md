@@ -5,10 +5,7 @@
 </div>
 
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&width=435&lines=AI+and+Datascience+enthusiast;Data+analysis+and+exploring;Passionate+about+coding)](https://git.io/typing-svg)
-</div>
+
 
 ## About Me:
 -🎓 Passionate about AI, Data Science, and Software Development.<br>
