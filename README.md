@@ -1,7 +1,7 @@
 # <p align=center>👋 Hi, I'm Manal! </p>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXV4M2ZxYjdoamJ6aDIxbHJncjRuNHlxMmwwZ3A2NGozdzY5bWQ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBibTBsOTh2cDl2cGZwdDF0bGZ6Y3ZkbzV5Y2tqazR1eXVxN3E3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
 
