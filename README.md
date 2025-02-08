@@ -1,7 +1,7 @@
 # <p align=center>👋 Hi, I'm Manal! </p>
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw35h-I6SnDALvwm6HhyB_lT&ust=1739065322076000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDY_6n5sosDFQAAAAAdAAAAABAE.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXV4M2ZxYjdoamJ6aDIxbHJncjRuNHlxMmwwZ3A2NGozdzY5bWQ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cst5AXzPxRLyIwMNsV/giphy.gif.gif" width="600" height="300"/>
 </div>
 
 
